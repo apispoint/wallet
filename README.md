@@ -27,7 +27,7 @@ s[64]: b06c...OMITTED...53cd
   adr: 17XQ...OMITTED...ESC4
 ```
 ```
-Where: s[64] = Hexidecimal private key
+Where: s[64] = Hexadecimal private key
          wif = Wallet Import Format
          adr = BTC Address
 ```
